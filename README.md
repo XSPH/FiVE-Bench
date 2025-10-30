@@ -20,8 +20,9 @@
 
 ---
 ## 📝 TODO List
-- [🔜] Add leaderboard support  
 - [🔜] Add `Wan-Edit` demo page on HF
+- [✅ Oct-30-2025] Add [leaderboard](https://huggingface.co/spaces/LIMinghan/FiVE-Bench-leaderboard) support 🔥🔥🔥🔥🔥
+- [✅ Oct-30-2025] Reorganized original results following Wan-Edit naming, kept only MP4s, [Google Drive](https://drive.google.com/file/d/1sNfds0tNrbCVZ5STdzlNiHdGUIe2e8KF/view?usp=sharing ). Thanks @Kunlin Yang. 🔥🔥🔥🔥🔥
 - [✅ Oct-28-2025] [The original results of all comparison methods](https://drive.google.com/drive/folders/1aTrLlUX9ug0vh6itBaDujwFvmlcgh_bE?usp=sharing) reported in the paper have been released for reference. 🔥🔥🔥🔥🔥
 - [✅ Aug-26-2025] Fix two issues: mp4_to_frames_ffmpeg and skip_timestep=17
 - [✅ Aug-05-2025] Release [`Wan-Edit'](models/wan-edit/) implementation  
