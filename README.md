@@ -29,7 +29,15 @@
 - [✅ Aug-05-2025] Release [`Pyramid-Edit`](models/pyramid-edit/) implementation  
 - [✅ Aug-02-2025] Add Wan-Edit results to HF for eval demo
 - [✅ Aug-02-2025] Evaluation code released 
-- [✅ Mar-31-2025] Dataset uploaded to Hugging Face   
+- [✅ Mar-31-2025] Dataset uploaded to Hugging Face
+
+## 🚀 Submit Your Results
+
+We welcome contributions!
+If you’ve evaluated your method on FiVE-Bench, please share your results so we can include them in the [leaderboard](https://huggingface.co/spaces/LIMinghan/FiVE-Bench-leaderboard).
+You can submit via a GitHub Issue or Pull Request following the leaderboard format.
+
+📩 For large files or additional details, feel free to contact us directly.
 
 
 ## 📚 Table of Contents
