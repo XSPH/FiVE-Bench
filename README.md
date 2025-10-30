@@ -24,7 +24,7 @@
 - [✅ Oct-30-2025] Add [leaderboard](https://huggingface.co/spaces/LIMinghan/FiVE-Bench-leaderboard) support 🔥🔥🔥🔥🔥
 - [✅ Oct-30-2025] Reorganized original results following Wan-Edit naming, kept only MP4s, [Google Drive](https://drive.google.com/file/d/1sNfds0tNrbCVZ5STdzlNiHdGUIe2e8KF/view?usp=sharing ). Thanks @Kunlin Yang. 🔥🔥🔥🔥🔥
 - [✅ Oct-28-2025] [The original results of all comparison methods](https://drive.google.com/drive/folders/1aTrLlUX9ug0vh6itBaDujwFvmlcgh_bE?usp=sharing) reported in the paper have been released for reference. 🔥🔥🔥🔥🔥
-- [✅ Aug-26-2025] Fix two issues: mp4_to_frames_ffmpeg and skip_timestep=17
+- [✅ Aug-26-2025] Fix two issues: mp4_to_frames_ffmpeg and skip_timestep=17. Raw [quantitative results](results/8_wan_edit) of [`Wan-Edit'](models/wan-edit/) is included.
 - [✅ Aug-05-2025] Release [`Wan-Edit'](models/wan-edit/) implementation  
 - [✅ Aug-05-2025] Release [`Pyramid-Edit`](models/pyramid-edit/) implementation  
 - [✅ Aug-02-2025] Add Wan-Edit results to HF for eval demo
@@ -227,7 +227,27 @@ If you use **FiVE-Bench** in your research, please cite us:
 }
 ```
 
+Recommended our recent papers on image/video editing:
+
+```bibtex
+@article{xie2025dnaedit,
+  title={DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing},
+  author={Xie, Chenxi and Li, Minghan and Li, Shuai and Wu, Yuhui and Yi, Qiaosi and Zhang, Lei},
+  journal={arXiv preprint arXiv:2506.01430},
+  year={2025}  # NeurIPS 2025
+}
+```
+
+```bibtex
+@article{beaudouin2025delta,
+  title={Delta Velocity Rectified Flow for Text-to-Image Editing},
+  author={Beaudouin, Gaspard and Li, Minghan and Kim, Jaeyeon and Yoon, Sung-Hoon and Wang, Mengyu},
+  journal={arXiv preprint arXiv:2509.05342},
+  year={2025}
+}
+```
+
 ### ❤️ Acknowledgement
 
-Part of the code is adapted from [PIE-Bench](https://github.com/cure-lab/PnPInversion).  
+Part of the code is adapted from [PIE-Bench](https://github.com/cure-lab/PnPInversion) and [FlowEdit (ICCV25 Best Student Paper)](https://github.com/fallenshock/FlowEdit).  
 We thank the authors for their excellent work and for making their code publicly available.
