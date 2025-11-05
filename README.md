@@ -6,7 +6,7 @@
 > <sup>1</sup>Harvard University <sup>2</sup>The Hong Kong Polytechnic University <sup>3</sup>City University of Hong Kong<br>
 > <sup>*</sup>Equal contribution <sup>†</sup>Corresponding Author
 
-💜 [Leaderboard (coming soon)](https://huggingface.co/spaces/LIMinghan/FiVE-Bench-leaderboard) &nbsp; | &nbsp; 
+💜 [Leaderboard](https://huggingface.co/spaces/LIMinghan/FiVE-Bench-leaderboard) &nbsp; | &nbsp; 
 💻 [GitHub](https://github.com/MinghanLi/FiVE-Bench) &nbsp; | &nbsp;
 🤗 [Hugging Face](https://huggingface.co/datasets/LIMinghan/FiVE-Fine-Grained-Video-Editing-Benchmark) &nbsp; 
 
