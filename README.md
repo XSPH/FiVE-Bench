@@ -31,6 +31,8 @@
 - [✅ Aug-02-2025] Evaluation code released 
 - [✅ Mar-31-2025] Dataset uploaded to Hugging Face
 
+## Human Evaluation Example via [Netlify](https://five-all-models-0.netlify.app/)
+
 ## 🚀 Submit Your Results
 
 We welcome contributions!
