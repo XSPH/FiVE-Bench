@@ -251,5 +251,5 @@ Recommended our recent papers on image/video editing:
 
 ### ❤️ Acknowledgement
 
-Part of the code is adapted from [PIE-Bench](https://github.com/cure-lab/PnPInversion) and [FlowEdit (ICCV25 Best Student Paper)](https://github.com/fallenshock/FlowEdit).  
+Part of the code is adapted from [PIE-Bench](https://github.com/cure-lab/PnPInversion), [FlowEdit (ICCV25 Best Student Paper)](https://github.com/fallenshock/FlowEdit), [Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) and [Wan model](https://github.com/Wan-Video/Wan2.1).  
 We thank the authors for their excellent work and for making their code publicly available.
