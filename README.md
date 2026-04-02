@@ -17,6 +17,11 @@
 
 <img src="assets/five_pipeline.png" alt="five-pipe" width="700"/>
 
+---
+## Follow-up Works
+- [DNAEdit (NeurIPS25 SpotLight)](https://github.com/xiechenxi99/DNAEdit_code) Direct Noise Alignment for Text-Guided Rectified Flow Editing
+- [SplitFlow (NeurIPS25)](https://github.com/Harvard-AI-and-Robotics-Lab/SplitFlow) Flow Decomposition for Inversion-Free Text-to-Image Editing
+- [DVRF (CVPR26)](https://arxiv.org/abs/2509.05342) Delta Velocity Rectified Flow for Text-to-Image Editing
 
 ---
 ## 📝 TODO List
